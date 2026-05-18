@@ -25,7 +25,7 @@ The analysis is fully automated using Snakemake across 7 modular steps:
 04_annotation.R          -> Gene annotation via biomaRt/Ensembl
 05_pathway_analysis.R    -> GO and KEGG enrichment (clusterProfiler)
 06_pyrimidine_analysis.R -> Targeted 119-gene pyrimidine metabolism analysis
-07_biomarker_analysis.R  -> High-confidence biomarker identification
+07_biomarker_analysis.R  -> Biomarker identification
 ```
 
 ## Key Results
