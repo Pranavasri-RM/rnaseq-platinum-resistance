@@ -4,7 +4,8 @@ data/
 # Large output files
 results/*.RData
 results/**/*.RData
-!results/**/*.pdf
+results/**/*.pdf
+!results/figures/*.pdf
 
 # figures
 !results/figures/*.png
