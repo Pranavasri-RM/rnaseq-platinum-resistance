@@ -1,0 +1,18 @@
+# Raw data (download from GEO)
+data/
+
+# Large output files
+results/*.RData
+results/**/*.RData
+results/**/*.pdf
+
+# figures
+!results/figures/*.png
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# System
+.DS_Store

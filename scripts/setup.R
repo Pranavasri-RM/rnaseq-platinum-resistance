@@ -1,0 +1,17 @@
+# LOAD LIBRARIES
+
+library(DESeq2)
+library(edgeR)
+library(limma)
+library(ggplot2)
+library(pheatmap)
+library(EnhancedVolcano)
+library(biomaRt)
+library(clusterProfiler)
+library(org.Hs.eg.db)
+library(GOplot)
+library(pathview)
+library(DOSE)
+library(dplyr)
+library(tibble)
+library(ggrepel)
