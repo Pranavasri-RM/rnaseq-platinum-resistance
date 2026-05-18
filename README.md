@@ -19,11 +19,11 @@ What transcriptional changes drive platinum resistance in ovarian cancer, and do
 The analysis is fully automated using Snakemake across 7 modular steps:
 
 ```
-01_load_and_qc.R       -> Count matrix construction, TMM normalization, PCA, QC heatmaps
-02_deseq_analysis.R    -> DESeq2 differential expression (4 comparisons)
-03_visualization.R     -> Volcano plots, MA plots, heatmaps
-04_annotation.R        -> Gene annotation via biomaRt/Ensembl
-05_pathway_analysis.R  -> GO and KEGG enrichment (clusterProfiler)
+01_load_and_qc.R         -> Count matrix construction, TMM normalization, PCA, QC heatmaps
+02_deseq_analysis.R      -> DESeq2 differential expression (4 comparisons)
+03_visualization.R       -> Volcano plots, MA plots, heatmaps
+04_annotation.R          -> Gene annotation via biomaRt/Ensembl
+05_pathway_analysis.R    -> GO and KEGG enrichment (clusterProfiler)
 06_pyrimidine_analysis.R -> Targeted 119-gene pyrimidine metabolism analysis
 07_biomarker_analysis.R  -> High-confidence biomarker identification
 ```
