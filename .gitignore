@@ -4,7 +4,6 @@ data/
 # Large output files
 results/*.RData
 results/**/*.RData
-results/**/*.pdf
 !results/figures/*.pdf
 
 # figures
