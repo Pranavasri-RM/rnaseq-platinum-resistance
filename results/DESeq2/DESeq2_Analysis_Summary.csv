@@ -1,0 +1,5 @@
+"Comparison","Genes_Tested","Sig_padj05","Up_padj05","Down_padj05","Up_padj05_LFC1","Down_padj05_LFC1","Percent_Sig"
+"Resistant vs Sensitive (untreated)",17661,5557,2640,2917,726,1421,31.46
+"Brequinar vs Control (Resistant)",17661,10644,5791,4853,2877,1973,60.27
+"Brequinar vs Control (Sensitive)",17661,10300,5432,4868,2679,1906,58.32
+"Interaction (Resistance x Treatment)",17661,1282,704,578,85,37,7.26

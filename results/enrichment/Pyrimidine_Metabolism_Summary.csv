@@ -1,0 +1,17 @@
+"Comparison","Branch","Genes_Tested","Sig_Up","Sig_Down","Median_log2FC","SetTest_p_Up","SetTest_p_Down"
+"Resistant_vs_Sensitive","De_novo",14,0,1,-0.031,0.754,0.246
+"Resistant_vs_Sensitive","Salvage",13,4,1,0.147,0.0552,0.945
+"Resistant_vs_Sensitive","Transport",3,0,2,-1.034,0.989,0.0112
+"Resistant_vs_Sensitive","Catabolism",1,0,0,0.101,0.247,0.754
+"BQ_in_Resistant","De_novo",14,5,6,-0.004,0.795,0.205
+"BQ_in_Resistant","Salvage",13,5,6,0.265,0.596,0.404
+"BQ_in_Resistant","Transport",3,1,1,-0.62,0.69,0.31
+"BQ_in_Resistant","Catabolism",1,0,1,-2.113,0.952,0.0476
+"BQ_in_Sensitive","De_novo",14,1,9,-0.424,0.996,0.00367
+"BQ_in_Sensitive","Salvage",13,4,4,-0.07,0.588,0.412
+"BQ_in_Sensitive","Transport",3,1,1,-0.054,0.744,0.256
+"BQ_in_Sensitive","Catabolism",1,0,1,-2.135,0.952,0.0483
+"Interaction","De_novo",14,4,0,0.204,0.00738,0.993
+"Interaction","Salvage",13,1,1,0.059,0.368,0.632
+"Interaction","Transport",3,0,0,0.087,0.319,0.681
+"Interaction","Catabolism",1,0,0,0.009,0.492,0.508

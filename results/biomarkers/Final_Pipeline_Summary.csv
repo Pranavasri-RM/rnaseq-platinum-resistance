@@ -1,0 +1,10 @@
+"Metric","Value"
+"Genes tested (after low-count filter)",17661
+"DE genes, Resistant vs Sensitive (padj < 0.05)",5557
+"DE genes, Brequinar in Resistant (padj < 0.05)",10644
+"DE genes, Brequinar in Sensitive (padj < 0.05)",10300
+"Interaction genes (padj < 0.05)",1282
+"Candidate resistance markers (padj < 0.01, |log2FC| > 2, baseMean > 100)",363
+"  of which replicates do not overlap",363
+"  of which persist under brequinar",360
+"Curated pyrimidine genes tested",31
