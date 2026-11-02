@@ -41,7 +41,7 @@ Seven R scripts, run in order by Snakemake:
 
 ![PCA](results/figures/pca_plot.png)
 
-Samples separate by resistance status and by treatment (PC1 46.5%, PC2 36.3%), and replicates cluster tightly.
+Samples separate by resistance status and by treatment (PC1 46.5%, PC2 36.3%). Replicates cluster together, except OV5CRBQ2, which sits apart from the other two resistant + brequinar samples.
 
 ### 1. Resistant vs sensitive cells
 
